@@ -13,7 +13,7 @@ LEGO parts and wheels(r)
 Note: Before you begin, you need to know about the Raspberry Pi Pico and the Thony IDE as we are going to use the Thony IDE to program the Pico. Check out other articles on this blog.
 
 Circuit connection
-Make all connections as shown in the circuit diagram.
+Make all connections as shown in the circuit diagram (file --> σύνδεση-huskylens-PIpico-motors.svg).
 
 
 

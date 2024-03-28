@@ -21,3 +21,6 @@ Make all connections as shown in the circuit diagram.
 Set the Huskylens camera to I2C. Follow for detailed instructions: https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336.
 
 Press the left and right key and press "Line Tracking", then press the right key to start line learning mode
+
+https://youtu.be/7wgZLYKbYKI
+
